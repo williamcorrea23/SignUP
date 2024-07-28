@@ -5,6 +5,12 @@ import{getFirestore, getDoc, doc} from "https://www.gstatic.com/firebasejs/10.11
 const firebaseConfig = {
     //YOUR COPIED FIREBASE PART SHOULD BE HERE
  //WATCH THIS VIDEO TO LEARN WHAT TO PUT HERE   https://youtu.be/_Xczf06n6x0
+      apiKey: "AIzaSyDwNC4QWaBQYqvayl98oMArcGdYV0JuqSk",
+  authDomain: "elearning-568mbq.firebaseapp.com",
+  projectId: "elearning-568mbq",
+  storageBucket: "elearning-568mbq.appspot.com",
+  messagingSenderId: "956581108104",
+  appId: "1:956581108104:web:2be9a9b0c5978cd4b3823d",
   };
  
   // Initialize Firebase
